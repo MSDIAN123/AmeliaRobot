@@ -1,5 +1,5 @@
 {
-      "name": "Amelia Robot",
+      "name": "𝑻𝒉𝒆 𝑺𝒉𝒆𝒊𝒍𝒅",
       "description": "An Anime Theme Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,9 +9,9 @@
          "Amelia"
       ],
     
-   "logo":    "https://telegra.ph/file/329647a798cccb101aecf.jpg",
+   "logo":    "https://telegra.ph//file/311b2f9eb8590122838b4.jpg",
 
-   "repository": "https://github.com/xabhish3k/AmeliaRoBot",
+   "repository": "https://t.me/GIRLSSAFEZONE",
    "addons": [
           {
          "options": {
@@ -44,12 +44,12 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1868693368"
+         "value": "5065752827"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
          "required": true,
-         "value": "1868693368"
+         "value": "5795602262"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -61,12 +61,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Itsmelegend"
+         "value": "AANDAVAR8064"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "Warbotzchat"
+         "value": "tamil_crazy_sani"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -84,12 +84,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "@AmeliaLogUpdate"
+         "value": "@EVENTLOGSSHEILD"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "@AmeliaLogUpdate"
+         "value": "@JOILOGGERSHEILD"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
@@ -109,7 +109,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1868693368"
+         "value": "1454235991"
       },
       "sw_api": {
          "description": "Spamwatch API Token, Get one from @SpamWatchBot.",
